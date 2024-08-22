@@ -1,6 +1,8 @@
 ```markdown
 # Movie Reservation System
 
+PROJECT_URL: https://roadmap.sh/projects/movie-reservation-system
+
 ## Overview
 
 The Movie Reservation System is a web application that allows users to manage movie reservations, including signing up, logging in, and making reservations for showtimes. Admins have additional functionalities for managing movies, showtimes, and user roles.
