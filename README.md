@@ -64,8 +64,6 @@ The application provides several API endpoints for the functionalities mentioned
    go run cmd/main.go
    ```
 
-PROJECT_UIRL: https://github.com/yeboahd24/movie-reservation-system.git
-
 4. **Access the API**: Use tools like Postman or cURL to interact with the API endpoints.
 
 ## Conclusion
