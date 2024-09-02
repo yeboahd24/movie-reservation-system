@@ -1,4 +1,3 @@
-```markdown
 # Movie Reservation System
 
 PROJECT_URL: https://roadmap.sh/projects/movie-reservation-system
